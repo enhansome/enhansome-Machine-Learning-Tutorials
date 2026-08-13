@@ -1,0 +1,315 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome Machine Learning frameworks, libraries and software",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:49:59Z",
+            "owner": "josephmisiti",
+            "repo": "awesome-machine-learning",
+            "stars": 74011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List of Machine Learning University Courses",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-04T12:49:34Z",
+            "owner": "prakhar1989",
+            "repo": "awesome-courses",
+            "stars": 70378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An awesome Data Science repository to learn and apply for real world problems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T14:39:24Z",
+            "owner": "academic",
+            "repo": "awesome-datascience",
+            "stars": 29806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning for Software Engineers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-11T04:49:29Z",
+            "owner": "ZuzooVn",
+            "repo": "machine-learning-for-software-engineers",
+            "stars": 28857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI/ML YouTube Courses",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-22T15:52:28Z",
+            "owner": "dair-ai",
+            "repo": "ML-YouTube-Courses",
+            "stars": 17354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dive into Machine Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-06-17T23:22:08Z",
+            "owner": "dive-into-machine-learning",
+            "repo": "dive-into-machine-learning",
+            "stars": 11393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Have Fun With Machine Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-19T18:38:53Z",
+            "owner": "humphd",
+            "repo": "have-fun-with-machine-learning",
+            "stars": 5110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome data visualization libraries and resources.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-26T12:36:48Z",
+            "owner": "hal9ai",
+            "repo": "awesome-dataviz",
+            "stars": 4377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheAnalyticsEdge edX Notes and Codes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2015-04-13T19:45:11Z",
+            "owner": "pedrosan",
+            "repo": "TheAnalyticsEdge",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Introduction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Learning Papers Reading Roadmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-27T13:18:32Z",
+            "owner": "floodsung",
+            "repo": "Deep-Learning-Papers-Reading-Roadmap",
+            "stars": 39551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome Deep Learning tutorials, projects and communities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-26T12:28:00Z",
+            "owner": "ChristosChristofidis",
+            "repo": "awesome-deep-learning",
+            "stars": 28741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Deep Learning Using Python (GitHub)",
+          "description": ", Good Introduction Slides",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-11-05T02:52:02Z",
+            "owner": "rouseguy",
+            "repo": "intro2deeplearning",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Neural Machine Translation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Machine Translation Reading List",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2024-08-09T14:48:06Z",
+                "owner": "THUNLP-MT",
+                "repo": "MT-Reading-List",
+                "stars": 2435
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Deep Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome computer vision (github)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-17T14:24:27Z",
+            "owner": "jbhuang0604",
+            "repo": "awesome-computer-vision",
+            "stars": 23491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome deep vision (github)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-15T10:52:15Z",
+            "owner": "kjw0612",
+            "repo": "awesome-deep-vision",
+            "stars": 11177
+          }
+        }
+      ],
+      "title": "Computer Vision"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bayesian Methods for Hackers (using pyMC)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-25T20:42:58Z",
+            "owner": "CamDavidsonPilon",
+            "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+            "stars": 28194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kalman & Bayesian Filters in Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-07T13:19:15Z",
+            "owner": "rlabbe",
+            "repo": "Kalman-and-Bayesian-Filters-in-Python",
+            "stars": 19197
+          }
+        }
+      ],
+      "title": "Bayesian Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "For a collection of Data Science Tutorials using Python, please refer to this list",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-03T10:37:58Z",
+            "owner": "ujjwalkarn",
+            "repo": "DataSciencePython",
+            "stars": 5809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "For a collection of Data Science Tutorials using R, please refer to this list",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-03-10T11:06:16Z",
+            "owner": "ujjwalkarn",
+            "repo": "DataScienceR",
+            "stars": 2151
+          }
+        }
+      ],
+      "title": "Other Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:25.607Z",
+    "original_repository": "ujjwalkarn/Machine-Learning-Tutorials",
+    "original_repository_sha": "fb7329248217ebcea5b79e17dd5275e001fd982f",
+    "enhanced_repository": "enhansome/enhansome-Machine-Learning-Tutorials",
+    "enhanced_repository_description": null,
+    "title": "Awesome Machine Learning & Deep Learning Tutorials with stars"
+  }
+}
