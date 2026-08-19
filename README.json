@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74070
+            "stars": 74074
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70519
+            "stars": 70523
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-18T10:27:04Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29839
+            "stars": 29840
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28865
+            "stars": 28864
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-01-22T15:52:28Z",
             "owner": "dair-ai",
             "repo": "ML-YouTube-Courses",
-            "stars": 17364
+            "stars": 17369
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2022-11-27T13:18:32Z",
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39546
+            "stars": 39547
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28778
+            "stars": 28780
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23503
+            "stars": 23506
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11183
+            "stars": 11182
           }
         }
       ],
@@ -265,7 +265,7 @@
             "last_commit": "2024-06-25T20:42:58Z",
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28169
+            "stars": 28167
           }
         },
         {
@@ -324,7 +324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:12:33.522Z",
+    "last_updated": "2026-08-19T16:58:43.190Z",
     "original_repository": "ujjwalkarn/Machine-Learning-Tutorials",
     "original_repository_id": 42360601,
     "original_repository_sha": "fb7329248217ebcea5b79e17dd5275e001fd982f",
