@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21872392,
             "language": "Python",
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74061
+            "stars": 74070
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26689598,
             "language": null,
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70493
+            "stars": 70519
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21515044,
             "language": null,
             "last_commit": "2026-08-18T10:27:04Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29837
+            "stars": 29839
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70431106,
             "language": null,
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28862
+            "stars": 28865
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380191749,
             "language": null,
             "last_commit": "2024-01-22T15:52:28Z",
             "owner": "dair-ai",
             "repo": "ML-YouTube-Courses",
-            "stars": 17361
+            "stars": 17364
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 31186658,
             "language": null,
             "last_commit": "2022-06-17T23:22:08Z",
             "owner": "dive-into-machine-learning",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77629496,
             "language": "Python",
             "last_commit": "2021-12-19T18:38:53Z",
             "owner": "humphd",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39454666,
             "language": null,
             "last_commit": "2024-01-26T12:36:48Z",
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4379
+            "stars": 4380
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33495175,
             "language": "HTML",
             "last_commit": "2015-04-13T19:45:11Z",
             "owner": "pedrosan",
@@ -133,7 +142,7 @@
       "title": "Introduction"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70905478,
             "language": "Python",
             "last_commit": "2022-11-27T13:18:32Z",
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39547
+            "stars": 39546
           }
         },
         {
@@ -156,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28723659,
             "language": null,
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28770
+            "stars": 28778
           }
         },
         {
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35831537,
             "language": "Python",
             "last_commit": "2015-11-05T02:52:02Z",
             "owner": "rouseguy",
@@ -189,6 +201,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160175680,
                 "language": "TeX",
                 "last_commit": "2024-08-09T14:48:06Z",
                 "owner": "THUNLP-MT",
@@ -202,7 +215,7 @@
       "title": "Deep Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -211,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29357796,
             "language": null,
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
@@ -225,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35812923,
             "language": null,
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
@@ -236,7 +251,7 @@
       "title": "Computer Vision"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -245,11 +260,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7607075,
             "language": "Jupyter Notebook",
             "last_commit": "2024-06-25T20:42:58Z",
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28166
+            "stars": 28169
           }
         },
         {
@@ -259,18 +275,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19868085,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-07T13:19:15Z",
             "owner": "rlabbe",
             "repo": "Kalman-and-Bayesian-Filters-in-Python",
-            "stars": 19209
+            "stars": 19211
           }
         }
       ],
       "title": "Bayesian Machine Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -279,11 +296,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43759462,
             "language": "Python",
             "last_commit": "2024-04-03T10:37:58Z",
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5809
+            "stars": 5810
           }
         },
         {
@@ -293,6 +311,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24929423,
             "language": "R",
             "last_commit": "2023-03-10T11:06:16Z",
             "owner": "ujjwalkarn",
@@ -305,8 +324,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:00:31.791Z",
+    "last_updated": "2026-08-19T12:12:33.522Z",
     "original_repository": "ujjwalkarn/Machine-Learning-Tutorials",
+    "original_repository_id": 42360601,
     "original_repository_sha": "fb7329248217ebcea5b79e17dd5275e001fd982f",
     "enhanced_repository": "enhansome/enhansome-Machine-Learning-Tutorials",
     "enhanced_repository_description": null,
