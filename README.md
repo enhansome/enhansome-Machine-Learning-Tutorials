@@ -1,12 +1,12 @@
 # Awesome Machine Learning & Deep Learning Tutorials with stars
 
-* This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome) ⭐ 498,149 | 🐛 105 | 📅 2026-08-18.
+* This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome) ⭐ 498,558 | 🐛 105 | 📅 2026-08-21.
 
-* If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md) ⭐ 18,119 | 🐛 47 | 📅 2024-06-12.
+* If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md) ⭐ 18,129 | 🐛 47 | 📅 2024-06-12.
 
 * [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,810 | 🐛 13 | 🌐 Python | 📅 2024-04-03.
 
-* [Curated list of R tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataScienceR) ⭐ 2,150 | 🐛 7 | 🌐 R | 📅 2023-03-10.
+* [Curated list of R tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataScienceR) ⭐ 2,151 | 🐛 7 | 🌐 R | 📅 2023-03-10.
 
 ## Contents
 
@@ -54,21 +54,21 @@
 
 ## Introduction
 
-* [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,084 | 🐛 27 | 🌐 Python | 📅 2026-08-11
+* [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,095 | 🐛 26 | 🌐 Python | 📅 2026-08-21
 
-* [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 70,545 | 🐛 64 | 📅 2023-05-04
+* [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) ⭐ 70,567 | 🐛 64 | 📅 2023-05-04
 
-* [An awesome Data Science repository to learn and apply for real world problems](https://github.com/okulbilisim/awesome-datascience) ⭐ 29,847 | 🐛 8 | 📅 2026-08-18
+* [An awesome Data Science repository to learn and apply for real world problems](https://github.com/okulbilisim/awesome-datascience) ⭐ 29,850 | 🐛 9 | 📅 2026-08-18
 
-* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,864 | 🐛 32 | 📅 2024-06-11
+* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,865 | 🐛 32 | 📅 2024-06-11
 
-* [AI/ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) ⭐ 17,379 | 🐛 21 | 📅 2024-01-22
+* [AI/ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) ⭐ 17,380 | 🐛 21 | 📅 2024-01-22
 
 * [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) ⚠️ Archived
 
 * [Have Fun With Machine Learning](https://github.com/humphd/have-fun-with-machine-learning) ⭐ 5,112 | 🐛 8 | 🌐 Python | 📅 2021-12-19
 
-* [A curated list of awesome data visualization libraries and resources.](https://github.com/fasouto/awesome-dataviz) ⭐ 4,380 | 🐛 39 | 📅 2024-01-26
+* [A curated list of awesome data visualization libraries and resources.](https://github.com/fasouto/awesome-dataviz) ⭐ 4,384 | 🐛 39 | 📅 2024-01-26
 
 * [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge) ⭐ 24 | 🐛 0 | 🌐 HTML | 📅 2015-04-13
 
@@ -126,7 +126,7 @@
 
 ## Artificial Intelligence
 
-* [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 15,919 | 🐛 68 | 🌐 Python | 📅 2026-08-15
+* [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 15,927 | 🐛 68 | 🌐 Python | 📅 2026-08-15
 
 * [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html), [Lecture Videos](http://ai.berkeley.edu/lecture_videos.html), [2](https://www.youtube.com/watch?v=W1S-HSakPTM)
 
@@ -154,7 +154,7 @@
 
 * [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
 
-  * [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn) ⭐ 1,877 | 🐛 17 | 🌐 Python | 📅 2026-08-14
+  * [Genetic Programming in Python (GitHub)](https://github.com/trevorstephens/gplearn) ⭐ 1,878 | 🐛 17 | 🌐 Python | 📅 2026-08-14
 
   * [Genetic Alogorithms vs Genetic Programming (Quora)](https://www.quora.com/Whats-the-difference-between-Genetic-Algorithms-and-Genetic-Programming), [StackOverflow](http://stackoverflow.com/questions/3819977/what-are-the-differences-between-genetic-algorithms-and-genetic-programming)
 
@@ -230,7 +230,7 @@
 
 * [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - Easiest Introduction to machine learning
 
-* [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) ⭐ 3,495 | 🐛 6 | 🌐 HTML | 📅 2026-07-10 - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage
+* [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) ⭐ 3,496 | 🐛 6 | 🌐 HTML | 📅 2026-07-10 - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage
 
 <a name="quora" />
 
@@ -412,7 +412,7 @@
 
 ## Deep Learning
 
-* **[Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md) ⭐ 39,547 | 🐛 91 | 🌐 Python | 📅 2022-11-27**
+* **[Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md) ⭐ 39,548 | 🐛 91 | 🌐 Python | 📅 2022-11-27**
 
 * [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,788 | 🐛 84 | 📅 2025-05-26
 
@@ -478,7 +478,7 @@
 
 * Neural Machine Translation
 
-  * **[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list) ⭐ 2,435 | 🐛 4 | 🌐 TeX | 📅 2024-08-09**
+  * **[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list) ⭐ 2,433 | 🐛 4 | 🌐 TeX | 📅 2024-08-09**
 
   * [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
 
@@ -546,7 +546,7 @@
   * TensorFlow
     * [Website](http://tensorflow.org/)
 
-    * [TensorFlow Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,735 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26
+    * [TensorFlow Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,736 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26
 
     * [Stanford Tensorflow for Deep Learning Research Course](https://web.stanford.edu/class/cs20si/syllabus.html)
 
@@ -558,7 +558,7 @@
 
     * [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66) ⭐ 2,686 | 🐛 34 | 🌐 Python | 📅 2017-06-09
 
-    * [Awesome TensorFlow List](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,551 | 🐛 34 | 📅 2026-02-08
+    * [Awesome TensorFlow List](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,553 | 🐛 34 | 📅 2026-02-08
 
     * [TensorFlow Book](https://github.com/BinRoot/TensorFlow-Book) ⭐ 4,427 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-03-17
 
@@ -575,7 +575,7 @@
 
   * [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 
-  * [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch) ⭐ 2,307 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-08-14
+  * [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch) ⭐ 2,308 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-08-14
 
   * [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2015-10-26
 
@@ -606,7 +606,7 @@
 
   * [NLP RNN Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
-  * [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [Torch Code](https://github.com/karpathy/char-rnn) ⭐ 12,089 | 🐛 111 | 🌐 Lua | 📅 2023-10-24, [Python Code](https://gist.github.com/karpathy/d4dee566867f8291f086)
+  * [The Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [Torch Code](https://github.com/karpathy/char-rnn) ⭐ 12,090 | 🐛 111 | 🌐 Lua | 📅 2023-10-24, [Python Code](https://gist.github.com/karpathy/d4dee566867f8291f086)
 
   * [Intro to RNN](http://deeplearning4j.org/recurrentnetwork.html), [LSTM](http://deeplearning4j.org/lstm.html)
 
@@ -636,7 +636,7 @@
 
     * [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code](https://github.com/dennybritz/rnn-tutorial-gru-lstm) ⭐ 506 | 🐛 5 | 🌐 Python | 📅 2015-11-10
 
-    * [Torch Code for character-level language models using LSTM](https://github.com/karpathy/char-rnn) ⭐ 12,089 | 🐛 111 | 🌐 Lua | 📅 2023-10-24
+    * [Torch Code for character-level language models using LSTM](https://github.com/karpathy/char-rnn) ⭐ 12,090 | 🐛 111 | 🌐 Lua | 📅 2023-10-24
 
     * [LSTM for Kaggle EEG Detection competition (Torch Code)](https://github.com/apaszke/kaggle-grasp-and-lift) ⭐ 70 | 🐛 1 | 🌐 Lua | 📅 2015-08-26
 
@@ -652,7 +652,7 @@
 
     * [Torch code for Visual Question Answering using a CNN+LSTM model](https://github.com/abhshkdz/neural-vqa) ⭐ 486 | 🐛 3 | 🌐 Lua | 📅 2016-05-03
 
-    * [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/) ⭐ 3,485 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06
+    * [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/) ⭐ 3,483 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06
 
   * Gated Recurrent Units (GRU)
 
@@ -704,13 +704,13 @@
 
   * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
-  * [Awesome Deep Vision: List of Resources (GitHub)](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,183 | 🐛 47 | 📅 2023-08-15
+  * [Awesome Deep Vision: List of Resources (GitHub)](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,184 | 🐛 47 | 📅 2023-08-15
 
   * [Intro to CNNs](http://deeplearning4j.org/convolutionalnets.html)
 
   * [Understanding CNN for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
-  * [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io) ⭐ 11,004 | 🐛 89 | 🌐 Jupyter Notebook | 📅 2026-05-14
+  * [Stanford Notes](http://vision.stanford.edu/teaching/cs231n/), [Codes](http://cs231n.github.io/), [GitHub](https://github.com/cs231n/cs231n.github.io) ⭐ 11,003 | 🐛 89 | 🌐 Jupyter Notebook | 📅 2026-05-14
 
   * [JavaScript Library (Browser Based) for CNNs](http://cs.stanford.edu/people/karpathy/convnetjs/)
 
@@ -734,13 +734,13 @@
 
   * [Knowledge Representation Learning Papers](https://github.com/thunlp/KRLPapers) ⭐ 1,523 | 🐛 2 | 🌐 TeX | 📅 2021-08-29
 
-  * [Graph Based Deep Learning Literature](https://github.com/naganandy/graph-based-deep-learning-literature) ⭐ 5,094 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-07
+  * [Graph Based Deep Learning Literature](https://github.com/naganandy/graph-based-deep-learning-literature) ⭐ 5,096 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-07
 
 <a name="nlp" />
 
 ## Natural Language Processing
 
-* [A curated list of speech and natural language processing resources](https://github.com/edobashira/speech-language-processing) ⭐ 2,226 | 🐛 19 | 📅 2019-04-02
+* [A curated list of speech and natural language processing resources](https://github.com/edobashira/speech-language-processing) ⭐ 2,225 | 🐛 19 | 📅 2019-04-02
 
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 
@@ -861,9 +861,9 @@
 
 ## Computer Vision
 
-* [Awesome computer vision (github)](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,507 | 🐛 91 | 📅 2024-05-17
+* [Awesome computer vision (github)](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,509 | 🐛 91 | 📅 2024-05-17
 
-* [Awesome deep vision (github)](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,183 | 🐛 47 | 📅 2023-08-15
+* [Awesome deep vision (github)](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,184 | 🐛 47 | 📅 2023-08-15
 
 <a name="svm" />
 
@@ -1156,7 +1156,7 @@
 
 ## Bayesian Machine Learning
 
-* [Bayesian Methods for Hackers (using pyMC)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,170 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
+* [Bayesian Methods for Hackers (using pyMC)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,169 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25
 
 * [Kalman & Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,212 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2024-08-07
 
@@ -1214,8 +1214,8 @@
 
 * For a collection of Data Science Tutorials using Python, please refer to [this list](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,810 | 🐛 13 | 🌐 Python | 📅 2024-04-03.
 
-* For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR) ⭐ 2,150 | 🐛 7 | 🌐 R | 📅 2023-03-10.
+* For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR) ⭐ 2,151 | 🐛 7 | 🌐 R | 📅 2023-03-10.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
