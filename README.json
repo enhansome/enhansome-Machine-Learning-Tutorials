@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499507
+            "stars": 499551
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-12T08:11:59Z",
             "owner": "ujjwalkarn",
             "repo": "Machine-Learning-Tutorials",
-            "stars": 18141
+            "stars": 18144
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70632
+            "stars": 70637
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28866
+            "stars": 28867
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16117
+            "stars": 16119
           }
         }
       ],
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-14T23:44:19Z",
                 "owner": "trevorstephens",
                 "repo": "gplearn",
-                "stars": 1878
+                "stars": 1879
               }
             }
           ]
@@ -349,7 +349,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28804
+            "stars": 28806
           }
         },
         {
@@ -665,7 +665,7 @@
                 "last_commit": "2023-08-14T23:34:36Z",
                 "owner": "dennybritz",
                 "repo": "nn-from-scratch",
-                "stars": 2308
+                "stars": 2309
               }
             },
             {
@@ -918,7 +918,7 @@
                 "last_commit": "2026-05-14T23:39:55Z",
                 "owner": "cs231n",
                 "repo": "cs231n.github.io",
-                "stars": 11006
+                "stars": 11007
               }
             }
           ]
@@ -1268,7 +1268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:34.288Z",
+    "last_updated": "2026-08-24T17:08:14.452Z",
     "original_repository": "ujjwalkarn/Machine-Learning-Tutorials",
     "original_repository_id": 42360601,
     "original_repository_sha": "fb7329248217ebcea5b79e17dd5275e001fd982f",
