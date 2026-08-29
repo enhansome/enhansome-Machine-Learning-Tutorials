@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500856
+            "stars": 500889,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -26,12 +37,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "machine learning and deep learning tutorials, articles and other resources ",
+            "homepage": "http://ujjwalkarn.github.io/Machine-Learning-Tutorials",
             "id": 42360601,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-06-12T08:11:59Z",
+            "open_issues": 47,
             "owner": "ujjwalkarn",
             "repo": "Machine-Learning-Tutorials",
-            "stars": 18147
+            "stars": 18147,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-neural-networks",
+              "deeplearning",
+              "list",
+              "machine-learning",
+              "machinelearning",
+              "neural-network",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -42,12 +70,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "common data analysis and machine learning tasks using python",
+            "homepage": null,
             "id": 43759462,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-03T10:37:58Z",
+            "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5816
+            "stars": 5816,
+            "topics": [
+              "data-science",
+              "data-scientists",
+              "python",
+              "python-tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -58,12 +96,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a curated list of R tutorials for Data Science, NLP and Machine Learning ",
+            "homepage": null,
             "id": 24929423,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2023-03-10T11:06:16Z",
+            "open_issues": 7,
             "owner": "ujjwalkarn",
             "repo": "DataScienceR",
-            "stars": 2150
+            "stars": 2150,
+            "topics": [
+              "data-science",
+              "datascience",
+              "r",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -80,12 +128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74202
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -96,12 +149,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: List of awesome university courses for learning Computer Science!",
+            "homepage": null,
             "id": 26689598,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-04T12:49:34Z",
+            "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70723
+            "stars": 70729,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-science",
+              "courses"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -112,12 +175,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+            "homepage": null,
             "id": 21515044,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
+            "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29886
+            "stars": 29887,
+            "topics": [
+              "analytics",
+              "awesome-list",
+              "data-mining",
+              "data-science",
+              "data-scientists",
+              "data-visualization",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -128,12 +207,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete daily plan for studying to become a machine learning engineer.",
+            "homepage": "https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk",
             "id": 70431106,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-06-11T04:49:29Z",
+            "open_issues": 32,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28863
+            "stars": 28863,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "software-engineer"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -144,12 +234,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📺 Discover the latest machine learning / AI courses on YouTube.",
+            "homepage": null,
             "id": 380191749,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-01-22T15:52:28Z",
+            "open_issues": 21,
             "owner": "dair-ai",
             "repo": "ML-YouTube-Courses",
-            "stars": 17385
+            "stars": 17386,
+            "topics": [
+              "ai",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -160,12 +262,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)",
+            "homepage": "http://hangtwenty.github.io/dive-into-machine-learning/",
             "id": 31186658,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2022-06-17T23:22:08Z",
+            "open_issues": 0,
             "owner": "dive-into-machine-learning",
             "repo": "dive-into-machine-learning",
-            "stars": 11390
+            "stars": 11390,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -176,12 +283,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks",
+            "homepage": null,
             "id": 77629496,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-19T18:38:53Z",
+            "open_issues": 8,
             "owner": "humphd",
             "repo": "have-fun-with-machine-learning",
-            "stars": 5110
+            "stars": 5110,
+            "topics": [
+              "caffe",
+              "image-classification",
+              "machine-learning",
+              "neural-network",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -192,12 +310,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
+            "homepage": null,
             "id": 39454666,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-01-26T12:36:48Z",
+            "open_issues": 39,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4391
+            "stars": 4391,
+            "topics": [
+              "awesome-list",
+              "chart",
+              "data-visualization",
+              "dataviz",
+              "visualization",
+              "visualize-data"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -208,12 +338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notes from the edX Course",
+            "homepage": null,
             "id": 33495175,
             "language": "HTML",
+            "license": null,
             "last_commit": "2015-04-13T19:45:11Z",
+            "open_issues": 0,
             "owner": "pedrosan",
             "repo": "TheAnalyticsEdge",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -230,12 +365,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+            "homepage": "https://aiengineer.co",
             "id": 29906842,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T08:12:01Z",
+            "open_issues": 72,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16238
+            "stars": 16239,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "deep-learning",
+              "intelligent-machines",
+              "intelligent-systems",
+              "machine-intelligence",
+              "machine-learning",
+              "neural-network",
+              "reinforcement-learning",
+              "statistical-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -257,12 +409,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Genetic Programming in Python, with a scikit-learn inspired API",
+                "homepage": "http://gplearn.readthedocs.io/",
                 "id": 32899829,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-14T23:44:19Z",
+                "open_issues": 17,
                 "owner": "trevorstephens",
                 "repo": "gplearn",
-                "stars": 1881
+                "stars": 1881,
+                "topics": [
+                  "genetic-programming",
+                  "machine-learning",
+                  "python",
+                  "scikit-learn",
+                  "symbolic-regression"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             }
@@ -281,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduction to Statistics using Python",
+            "homepage": null,
             "id": 35317949,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-10-08T20:56:50Z",
+            "open_issues": 6,
             "owner": "rouseguy",
             "repo": "intro2stats",
-            "stars": 926
+            "stars": 926,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -303,12 +471,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":earth_americas: machine learning tutorials (mainly in Python3) ",
+            "homepage": null,
             "id": 39610055,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-10T18:45:47Z",
+            "open_issues": 6,
             "owner": "ethen8181",
             "repo": "machine-learning",
-            "stars": 3498
+            "stars": 3498,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "jupyter-notebook",
+              "machine-learning",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -325,12 +505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Classical equations and diagrams in machine learning",
+            "homepage": "http://soulmachine.me",
             "id": 9954710,
             "language": "TeX",
+            "license": null,
             "last_commit": "2024-07-30T22:02:41Z",
+            "open_issues": 11,
             "owner": "soulmachine",
             "repo": "machine-learning-cheat-sheet",
-            "stars": 8047
+            "stars": 8047,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -347,12 +532,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+            "homepage": null,
             "id": 70905478,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-27T13:18:32Z",
+            "open_issues": 91,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39553
+            "stars": 39553,
+            "topics": [
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -363,12 +555,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+            "homepage": null,
             "id": 28723659,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
+            "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28827
+            "stars": 28829,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-networks",
+              "face-images",
+              "machine-learning",
+              "neural-network",
+              "recurrent-networks"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -379,12 +586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introduction to Deep Learning",
+            "homepage": null,
             "id": 35831537,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-11-05T02:52:02Z",
+            "open_issues": 2,
             "owner": "rouseguy",
             "repo": "intro2deeplearning",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -400,12 +612,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A machine translation reading list maintained by Tsinghua Natural Language Processing Group",
+                "homepage": null,
                 "id": 160175680,
                 "language": "TeX",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-09T14:48:06Z",
+                "open_issues": 4,
                 "owner": "THUNLP-MT",
                 "repo": "MT-Reading-List",
-                "stars": 2433
+                "stars": 2433,
+                "topics": [
+                  "machine-translation",
+                  "reading-list"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             }
@@ -428,12 +648,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Learning Tutorial notes and code. See the wiki for more info.",
+                    "homepage": "http://deeplearning.net/tutorial",
                     "id": 462713,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-09-30T13:03:49Z",
+                    "open_issues": 22,
                     "owner": "lisa-lab",
                     "repo": "DeepLearningTutorials",
-                    "stars": 4149
+                    "stars": 4149,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -444,12 +669,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Learning Resources and Tutorials using Keras and Lasagne",
+                    "homepage": null,
                     "id": 49144659,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-08-15T18:38:43Z",
+                    "open_issues": 7,
                     "owner": "vict0rsch",
                     "repo": "deep_learning",
-                    "stars": 425
+                    "stars": 425,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 }
@@ -467,12 +697,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "http://torch.ch",
+                    "homepage": null,
                     "id": 13677187,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-31T20:16:24Z",
+                    "open_issues": 298,
                     "owner": "torch",
                     "repo": "torch7",
-                    "stars": 9141
+                    "stars": 9141,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -483,12 +718,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome Torch tutorials, projects and communities",
+                    "homepage": null,
                     "id": 43641860,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-03-22T05:39:14Z",
+                    "open_issues": 0,
                     "owner": "carpedm20",
                     "repo": "awesome-torch",
-                    "stars": 653
+                    "stars": 653,
+                    "topics": [
+                      "awsome",
+                      "torch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -499,12 +742,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A series of machine learning tutorials for Torch7",
+                    "homepage": null,
                     "id": 5044947,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-09-30T19:09:29Z",
+                    "open_issues": 18,
                     "owner": "torch",
                     "repo": "tutorials",
-                    "stars": 620
+                    "stars": 620,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -515,12 +763,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning to program in Lua using \"Torch\" and other useful libraries",
+                    "homepage": null,
                     "id": 43733823,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2015-10-13T04:08:33Z",
+                    "open_issues": 0,
                     "owner": "chetannaik",
                     "repo": "learning_torch",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 }
@@ -538,12 +791,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+                    "homepage": null,
                     "id": 45986162,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-07-26T19:46:13Z",
+                    "open_issues": 228,
                     "owner": "aymericdamien",
                     "repo": "TensorFlow-Examples",
-                    "stars": 43735
+                    "stars": 43735,
+                    "topics": [
+                      "deep-learning",
+                      "examples",
+                      "machine-learning",
+                      "python",
+                      "tensorflow",
+                      "tutorial"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -554,12 +819,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
+                    "homepage": null,
                     "id": 52677592,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-02-08T17:13:47Z",
+                    "open_issues": 34,
                     "owner": "jtoy",
                     "repo": "awesome-tensorflow",
-                    "stars": 17549
+                    "stars": 17549,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -570,12 +840,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.",
+                    "homepage": "http://www.tensorflowbook.com",
                     "id": 53281911,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2023-03-17T17:59:01Z",
+                    "open_issues": 15,
                     "owner": "BinRoot",
                     "repo": "TensorFlow-Book",
-                    "stars": 4427
+                    "stars": 4427,
+                    "topics": [
+                      "autoencoder",
+                      "book",
+                      "classification",
+                      "clustering",
+                      "convolutional-neural-networks",
+                      "linear-regression",
+                      "logistic-regression",
+                      "machine-learning",
+                      "regression",
+                      "reinforcement-learning",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -586,12 +873,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning",
+                    "homepage": null,
                     "id": 46443613,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-08-30T20:14:47Z",
+                    "open_issues": 4,
                     "owner": "tensorflow",
                     "repo": "skflow",
-                    "stars": 3167
+                    "stars": 3167,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -602,12 +894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy benchmarking of all publicly accessible implementations of convnets",
+                    "homepage": null,
                     "id": 21758476,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2017-06-09T15:12:02Z",
+                    "open_issues": 34,
                     "owner": "soumith",
                     "repo": "convnet-benchmarks",
-                    "stars": 2686
+                    "stars": 2686,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -623,12 +920,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. ",
+                        "homepage": "http://cs20.stanford.edu",
                         "id": 72945141,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2020-12-22T09:21:55Z",
+                        "open_issues": 85,
                         "owner": "chiphuyen",
                         "repo": "stanford-tensorflow-tutorials",
-                        "stars": 10370
+                        "stars": 10370,
+                        "topics": [
+                          "chatbot",
+                          "course-materials",
+                          "deep-learning",
+                          "machine-learning",
+                          "natural-language-processing",
+                          "nlp",
+                          "python",
+                          "stanford",
+                          "tensorflow",
+                          "tutorial"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:38:49.811Z"
                     }
@@ -646,12 +959,29 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Android TensorFlow MachineLearning Example (Building TensorFlow for Android)",
+                        "homepage": "https://outcomeschool.com",
                         "id": 84030164,
                         "language": "Java",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-05-02T03:41:52Z",
+                        "open_issues": 13,
                         "owner": "amitshekhariitbhu",
                         "repo": "AndroidTensorFlowMachineLearningExample",
-                        "stars": 1440
+                        "stars": 1440,
+                        "topics": [
+                          "deep-learning",
+                          "deep-learning-tutorial",
+                          "deep-neural-networks",
+                          "deeplearning",
+                          "machine-learning",
+                          "machine-learning-android",
+                          "tensorflow",
+                          "tensorflow-android",
+                          "tensorflow-examples",
+                          "tensorflow-models",
+                          "tensorflow-tutorials"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:38:49.811Z"
                     }
@@ -669,12 +999,33 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Android TensorFlow MachineLearning MNIST Example (Building Model with TensorFlow for Android)",
+                        "homepage": "https://outcomeschool.com",
                         "id": 85210314,
                         "language": "Java",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-07-20T04:50:20Z",
+                        "open_issues": 3,
                         "owner": "amitshekhariitbhu",
                         "repo": "AndroidTensorFlowMNISTExample",
-                        "stars": 460
+                        "stars": 460,
+                        "topics": [
+                          "android",
+                          "deep-learning",
+                          "deep-learning-tutorial",
+                          "deep-neural-networks",
+                          "deeplearning",
+                          "machine-learning",
+                          "machine-learning-android",
+                          "mnist",
+                          "mnist-classification",
+                          "mnist-model",
+                          "tensorflow",
+                          "tensorflow-android",
+                          "tensorflow-model",
+                          "tensorflow-models",
+                          "tensorflow-tutorials"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:38:49.811Z"
                     }
@@ -696,12 +1047,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementing a Neural Network from Scratch",
+                "homepage": null,
                 "id": 41792525,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-08-14T23:34:36Z",
+                "open_issues": 9,
                 "owner": "dennybritz",
                 "repo": "nn-from-scratch",
-                "stars": 2311
+                "stars": 2311,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -712,12 +1068,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Speed up your Neural Network with Theano and the GPU",
+                "homepage": null,
                 "id": 42085469,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-10-26T21:05:40Z",
+                "open_issues": 0,
                 "owner": "dennybritz",
                 "repo": "nn-theano",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             }
@@ -735,12 +1096,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",
+                "homepage": null,
                 "id": 36027077,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-10-24T17:15:27Z",
+                "open_issues": 111,
                 "owner": "karpathy",
                 "repo": "char-rnn",
-                "stars": 12097
+                "stars": 12097,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -751,12 +1117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recurrent Neural Network - A curated list of resources dedicated to RNN",
+                "homepage": null,
                 "id": 37458410,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-02-03T05:56:39Z",
+                "open_issues": 4,
                 "owner": "kjw0612",
                 "repo": "awesome-rnn",
-                "stars": 6211
+                "stars": 6211,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -767,12 +1138,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow - Guillaume Chevalier",
+                "homepage": null,
                 "id": 86853350,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-25T00:33:48Z",
+                "open_issues": 9,
                 "owner": "guillaume-chevalier",
                 "repo": "seq2seq-signal-prediction",
-                "stars": 1081
+                "stars": 1081,
+                "topics": [
+                  "python",
+                  "seq2seq",
+                  "tensorflow",
+                  "tensorflow-tutorials"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -783,12 +1164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recurrent Neural Network Tutorial, Part 2 - Implementing a RNN in Python and Theano",
+                "homepage": null,
                 "id": 42806479,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-14T23:34:12Z",
+                "open_issues": 19,
                 "owner": "dennybritz",
                 "repo": "rnn-tutorial-rnnlm",
-                "stars": 899
+                "stars": 899,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -799,12 +1185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GRUV is a Python project for algorithmic music generation. ",
+                "homepage": null,
                 "id": 39748713,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-28T18:30:27Z",
+                "open_issues": 27,
                 "owner": "MattVitelli",
                 "repo": "GRUV",
-                "stars": 795
+                "stars": 795,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -820,12 +1211,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",
+                    "homepage": null,
                     "id": 36027077,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2023-10-24T17:15:27Z",
+                    "open_issues": 111,
                     "owner": "karpathy",
                     "repo": "char-rnn",
-                    "stars": 12097
+                    "stars": 12097,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -836,12 +1232,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Human Activity Recognition example using TensorFlow on smartphone sensors dataset and an LSTM RNN. Classifying the type of movement amongst six activity categories - Guillaume Chevalier",
+                    "homepage": null,
                     "id": 59073471,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2022-11-06T17:53:06Z",
+                    "open_issues": 22,
                     "owner": "guillaume-chevalier",
                     "repo": "LSTM-Human-Activity-Recognition",
-                    "stars": 3483
+                    "stars": 3483,
+                    "topics": [
+                      "activity-recognition",
+                      "deep-learning",
+                      "human-activity-recognition",
+                      "lstm",
+                      "machine-learning",
+                      "neural-network",
+                      "recurrent-neural-networks",
+                      "rnn",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -852,12 +1263,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Language Model GRU with Python and Theano",
+                    "homepage": null,
                     "id": 44095448,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2015-11-10T19:09:58Z",
+                    "open_issues": 5,
                     "owner": "dennybritz",
                     "repo": "rnn-tutorial-gru-lstm",
-                    "stars": 506
+                    "stars": 506,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -868,12 +1284,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":grey_question: Visual Question Answering in Torch",
+                    "homepage": "https://arxiv.org/abs/1505.02074",
                     "id": 46271402,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2016-05-03T01:57:35Z",
+                    "open_issues": 3,
                     "owner": "abhshkdz",
                     "repo": "neural-vqa",
-                    "stars": 486
+                    "stars": 486,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "natural-language-processing",
+                      "torch"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -884,12 +1310,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[Reimplementation Antol et al 2015] Keras-based LSTM/CNN models for Visual Question Answering",
+                    "homepage": "https://avisingh599.github.io/deeplearning/visual-qa/",
                     "id": 45050307,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-06-11T08:22:16Z",
+                    "open_issues": 24,
                     "owner": "avisingh599",
                     "repo": "visual-qa",
-                    "stars": 479
+                    "stars": 479,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -900,12 +1331,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Kaggle EEG Detection competition",
+                    "homepage": null,
                     "id": 39704932,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2015-08-26T22:15:27Z",
+                    "open_issues": 1,
                     "owner": "apaszke",
                     "repo": "kaggle-grasp-and-lift",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 }
@@ -925,12 +1361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Restricted Boltzmann Machines in R",
+                "homepage": null,
                 "id": 16142511,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-01T09:43:51Z",
+                "open_issues": 3,
                 "owner": "zachmayer",
                 "repo": "rbm",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             }
@@ -948,12 +1389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of deep learning resources for computer vision ",
+                "homepage": null,
                 "id": 35812923,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-15T10:52:15Z",
+                "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11186
+                "stars": 11186,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -964,12 +1410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public facing notes page",
+                "homepage": null,
                 "id": 28801013,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-05-14T23:39:55Z",
+                "open_issues": 89,
                 "owner": "cs231n",
                 "repo": "cs231n.github.io",
-                "stars": 11009
+                "stars": 11009,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             }
@@ -987,12 +1438,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "links to conference publications in graph-based deep learning",
+                "homepage": null,
                 "id": 112751115,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-07T20:24:09Z",
+                "open_issues": 0,
                 "owner": "naganandy",
                 "repo": "graph-based-deep-learning-literature",
-                "stars": 5096
+                "stars": 5096,
+                "topics": [
+                  "conference-publications",
+                  "deep-learning",
+                  "graph",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "graph-representation-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -1003,12 +1467,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of important graph embedding, classification and representation learning papers with implementations.",
+                "homepage": null,
                 "id": 140943444,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2023-03-18T12:10:08Z",
+                "open_issues": 0,
                 "owner": "benedekrozemberczki",
                 "repo": "awesome-graph-classification",
-                "stars": 4801
+                "stars": 4801,
+                "topics": [
+                  "attention-mechanism",
+                  "classification-algorithm",
+                  "deep-graph-kernels",
+                  "deepwalk",
+                  "graph-attention-model",
+                  "graph-attention-networks",
+                  "graph-classification",
+                  "graph-convolutional-networks",
+                  "graph-embedding",
+                  "graph-kernel",
+                  "graph-kernels",
+                  "graph-representation-learning",
+                  "graph2vec",
+                  "kernel-methods",
+                  "netlsd",
+                  "network-embedding",
+                  "node-embedding",
+                  "node2vec",
+                  "structural-attention",
+                  "weisfeiler-lehman"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -1019,12 +1509,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of network embedding techniques.",
+                "homepage": null,
                 "id": 74880098,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-08T09:34:45Z",
+                "open_issues": 4,
                 "owner": "chihming",
                 "repo": "awesome-network-embedding",
-                "stars": 2627
+                "stars": 2627,
+                "topics": [
+                  "graph-embeddings",
+                  "knowledge-graph",
+                  "network-embedding",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -1035,12 +1535,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)",
+                "homepage": null,
                 "id": 120101597,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2021-08-29T07:30:25Z",
+                "open_issues": 2,
                 "owner": "thunlp",
                 "repo": "KRLPapers",
-                "stars": 1523
+                "stars": 1523,
+                "topics": [
+                  "knowledge-embedding",
+                  "paper-list"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             }
@@ -1059,12 +1567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of speech and natural language processing resources",
+            "homepage": null,
             "id": 22443092,
             "language": null,
+            "license": null,
             "last_commit": "2019-04-02T12:35:13Z",
+            "open_issues": 19,
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2225
+            "stars": 2225,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -1080,12 +1593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is a proof of concept toolbox for using Deep Belief Nets for Topic Modeling in Python.",
+                "homepage": null,
                 "id": 19993255,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-02-24T10:38:49Z",
+                "open_issues": 12,
                 "owner": "larsmaaloee",
                 "repo": "deep-belief-nets-for-topic-modeling",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -1096,12 +1614,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Multilingual Latent Dirichlet Allocation (LDA) Pipeline with Stop Words Removal, n-gram features, and Inverse Stemming, in Python.",
+                "homepage": null,
                 "id": 147256968,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-16T07:52:16Z",
+                "open_issues": 4,
                 "owner": "ArtificiAI",
                 "repo": "Multilingual-Latent-Dirichlet-Allocation-LDA",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "clustering",
+                  "english",
+                  "french",
+                  "latent-dirichlet-allocation",
+                  "lda",
+                  "machine-learning",
+                  "multilingual",
+                  "natural-language-processing"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             },
@@ -1117,12 +1649,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of various topic models",
+                    "homepage": null,
                     "id": 23452035,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-10-11T09:42:03Z",
+                    "open_issues": 10,
                     "owner": "dongwookim-ml",
                     "repo": "python-topic-model",
-                    "stars": 375
+                    "stars": 375,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 },
@@ -1133,12 +1670,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "lecture notes for probabilistic topic models using ipython notebook",
+                    "homepage": null,
                     "id": 23419575,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2014-12-16T07:43:47Z",
+                    "open_issues": 0,
                     "owner": "dongwookim-ml",
                     "repo": "topic-model-lecture-note",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
                 }
@@ -1159,12 +1701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome computer vision resources",
+            "homepage": null,
             "id": 29357796,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
+            "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23520,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -1175,12 +1722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of deep learning resources for computer vision ",
+            "homepage": null,
             "id": 35812923,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
+            "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186
+            "stars": 11186,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -1197,12 +1749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement learning resources curated",
+            "homepage": "http://aikorea.org/awesome-rl",
             "id": 40465212,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-25T22:25:44Z",
+            "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9923
+            "stars": 9924,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -1219,12 +1776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Random Forest - a curated list of resources regarding random forest",
+            "homepage": "http://jiwonkim.org/awesome-random-forest",
             "id": 37458505,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-16T18:51:31Z",
+            "open_issues": 3,
             "owner": "kjw0612",
             "repo": "awesome-random-forest",
-            "stars": 1253
+            "stars": 1253,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -1246,12 +1808,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CatBoost tutorials repository",
+                "homepage": null,
                 "id": 138584767,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-09T20:41:47Z",
+                "open_issues": 8,
                 "owner": "catboost",
                 "repo": "tutorials",
-                "stars": 1107
+                "stars": 1107,
+                "topics": [
+                  "catboost",
+                  "ipython",
+                  "ipython-notebook",
+                  "kaggle",
+                  "titanic-dataset",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
             }
@@ -1270,12 +1844,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aka \"Bayesian Methods for Hackers\": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  ",
+            "homepage": "http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/",
             "id": 7607075,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-25T20:42:58Z",
+            "open_issues": 203,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28173
+            "stars": 28173,
+            "topics": [
+              "bayesian-methods",
+              "data-science",
+              "jupyter-notebook",
+              "mathematical-analysis",
+              "pymc",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -1286,12 +1872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "homepage": null,
             "id": 19868085,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-07T13:19:15Z",
+            "open_issues": 143,
             "owner": "rlabbe",
             "repo": "Kalman-and-Bayesian-Filters-in-Python",
-            "stars": 19223
+            "stars": 19223,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -1308,12 +1899,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "common data analysis and machine learning tasks using python",
+            "homepage": null,
             "id": 43759462,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-03T10:37:58Z",
+            "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5816
+            "stars": 5816,
+            "topics": [
+              "data-science",
+              "data-scientists",
+              "python",
+              "python-tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         },
@@ -1324,12 +1925,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a curated list of R tutorials for Data Science, NLP and Machine Learning ",
+            "homepage": null,
             "id": 24929423,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2023-03-10T11:06:16Z",
+            "open_issues": 7,
             "owner": "ujjwalkarn",
             "repo": "DataScienceR",
-            "stars": 2150
+            "stars": 2150,
+            "topics": [
+              "data-science",
+              "datascience",
+              "r",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
         }
@@ -1338,15 +1949,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:38:49.811Z",
+    "last_updated": "2026-08-29T04:11:45.854Z",
     "original_repository_info": {
       "archived": false,
+      "description": "machine learning and deep learning tutorials, articles and other resources ",
+      "homepage": "http://ujjwalkarn.github.io/Machine-Learning-Tutorials",
       "id": 42360601,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-06-12T08:11:59Z",
+      "open_issues": 47,
       "owner": "ujjwalkarn",
       "repo": "Machine-Learning-Tutorials",
-      "stars": 18147
+      "stars": 18147,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "deep-learning-tutorial",
+        "deep-neural-networks",
+        "deeplearning",
+        "list",
+        "machine-learning",
+        "machinelearning",
+        "neural-network",
+        "neural-networks"
+      ]
     },
     "original_repository_sha": "fb7329248217ebcea5b79e17dd5275e001fd982f",
     "enhanced_repository": "enhansome/enhansome-Machine-Learning-Tutorials",
