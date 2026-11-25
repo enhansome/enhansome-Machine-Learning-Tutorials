@@ -19,7 +19,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 541739,
+            "stars": 542343,
             "topics": [
               "awesome",
               "awesome-list",
@@ -104,7 +104,7 @@
             "open_issues": 40,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74897,
+            "stars": 74905,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
@@ -125,7 +125,7 @@
             "open_issues": 67,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 73120,
+            "stars": 73142,
             "topics": [
               "awesome",
               "awesome-list",
@@ -147,11 +147,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-20T13:39:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-24T17:20:21Z",
+            "open_issues": 3,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30364,
+            "stars": 30367,
             "topics": [
               "analytics",
               "awesome-list",
@@ -183,7 +183,7 @@
             "open_issues": 33,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28883,
+            "stars": 28881,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -210,7 +210,7 @@
             "open_issues": 22,
             "owner": "dair-ai",
             "repo": "ML-YouTube-Courses",
-            "stars": 17510,
+            "stars": 17513,
             "topics": [
               "ai",
               "data-science",
@@ -286,7 +286,7 @@
             "open_issues": 5,
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4466,
+            "stars": 4468,
             "topics": [
               "awesome-list",
               "chart",
@@ -338,10 +338,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-15T08:12:01Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16877,
+            "stars": 16884,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -508,7 +508,7 @@
             "open_issues": 93,
             "owner": "floodsung",
             "repo": "Deep-Learning-Papers-Reading-Roadmap",
-            "stars": 39610,
+            "stars": 39611,
             "topics": [
               "deep-learning"
             ]
@@ -531,7 +531,7 @@
             "open_issues": 89,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29222,
+            "stars": 29227,
             "topics": [
               "awesome",
               "awesome-list",
@@ -795,7 +795,7 @@
                     "open_issues": 34,
                     "owner": "jtoy",
                     "repo": "awesome-tensorflow",
-                    "stars": 17538,
+                    "stars": 17536,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:49.811Z"
@@ -896,7 +896,7 @@
                         "open_issues": 85,
                         "owner": "chiphuyen",
                         "repo": "stanford-tensorflow-tutorials",
-                        "stars": 10373,
+                        "stars": 10374,
                         "topics": [
                           "chatbot",
                           "course-materials",
@@ -1386,7 +1386,7 @@
                 "open_issues": 91,
                 "owner": "cs231n",
                 "repo": "cs231n.github.io",
-                "stars": 11126,
+                "stars": 11127,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:49.811Z"
@@ -1414,7 +1414,7 @@
                 "open_issues": 1,
                 "owner": "naganandy",
                 "repo": "graph-based-deep-learning-literature",
-                "stars": 5117,
+                "stars": 5118,
                 "topics": [
                   "conference-publications",
                   "deep-learning",
@@ -1725,7 +1725,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 10052,
+            "stars": 10053,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
@@ -1752,7 +1752,7 @@
             "open_issues": 3,
             "owner": "kjw0612",
             "repo": "awesome-random-forest",
-            "stars": 1257,
+            "stars": 1258,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:49.811Z"
@@ -1916,7 +1916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:00:28.813Z",
+    "last_updated": "2026-11-25T01:01:28.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "machine learning and deep learning tutorials, articles and other resources ",
